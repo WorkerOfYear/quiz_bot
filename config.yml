@@ -1,0 +1,18 @@
+user_token: OTY3NmVjYWYtZTJhNC00NzNhLTgwM2YtZGY3OTBkYTM3YWFhXzczNzA=
+
+session:
+  key: CaY5iCkYtN7DqXdiYK1BvmGrQuaSA4Tl4bEk9my0jc0=
+admin:
+  email: admin@admin.com
+  password: admin
+database:
+  host: localhost
+  port: 5432
+  user: postgres
+  password: 123
+  database: postgres
+bot:
+  token: vk1.a.CoXnxHwKJKgzjTEFNW3yhgaZET-Q9ma5klUxMIYWY5ics838eQJhsKIDpPdUeWKYrl-OZ9BiDA71la7hXqc2s_vZ37XJ3kqxQrtdeDfq4HBMb8nm5KTh5WXSw1seeoTv5e0EDmJojM2h7q-WthX5HJxH4-JQ-5-mMlMl6zJQkFGuz_MxszjIfNnpuOqi-eecP-NtzwAGro4xhSOjVjjung
+  group_id: 228183743
+
+
